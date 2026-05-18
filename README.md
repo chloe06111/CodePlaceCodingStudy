@@ -1,2 +1,2 @@
 # SelfStudyCoding
-This is an auto push repository of algorithm solutions in Code Place pushed by CodePlaceHub
+Personal repository for algorithm practice and coding problems from Code Place Pusan National University.
